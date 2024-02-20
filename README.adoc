@@ -1,0 +1,9 @@
+# Github Quarkus Client
+
+Generated using open api spec from :
+
+https://github.com/github/rest-api-description/tree/main/descriptions-next/api.github.com
+
+NB : We are using the json version cause yaml spec generates :
+
+Caused by: org.yaml.snakeyaml.error.YAMLException: The incoming YAML document exceeds the limit:
