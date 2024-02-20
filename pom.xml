@@ -15,7 +15,7 @@
 
     <name>Github Rest Quarkus Client</name>
     <description>A Rest Client Generated from github openapi descriptor</description>
-    <url>https://github.com/dgautier/qithub-quarkus-client</url>
+    <url>https://github.com/dgautier/github-quarkus-client</url>
 
     <licenses>
         <license>
