@@ -4,6 +4,12 @@ Generated using open api spec from :
 
 https://github.com/github/rest-api-description/tree/main/descriptions-next/api.github.com
 
+## WIP
+
+Latest APi version won't compile so we use the same version as open api generator integration tests :
+
+https://github.com/quarkiverse/quarkus-openapi-generator/tree/main/integration-tests/github
+
 NB : We are using the json version cause yaml spec generates :
 
 Caused by: org.yaml.snakeyaml.error.YAMLException: The incoming YAML document exceeds the limit:
