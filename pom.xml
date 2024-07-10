@@ -50,7 +50,7 @@
         <quarkus.platform.version>3.12.1</quarkus.platform.version>
         <version.quarkus.ide-config>${quarkus.platform.version}</version.quarkus.ide-config>
         <quarkiverse.openapi.generator.version>2.4.2</quarkiverse.openapi.generator.version>
-        <version.org.assertj>3.26.0</version.org.assertj>
+        <version.org.assertj>3.26.3</version.org.assertj>
     </properties>
 
     <dependencyManagement>
